@@ -13,7 +13,7 @@ tasks:
       sudo gem install --no-document bundler
       sudo gem install --no-document neocities
       cd jekyll
-      cat jekyll.gemspec | grep -F "\"jekyll-watch\"" -v > jekyll-no-watch.gemspec
+      cat jekyll.gemspec | grep -E "\"(jekyll-watch|em-websocket)\"" -v > jekyll-no-watch.gemspec
       mv jekyll-no-watch.gemspec jekyll.gemspec
       cat lib/jekyll/commands/build.rb | grep -F "\"jekyll-watch\"" -v > lib/jekyll/commands/build-no-watch.rb
       mv lib/jekyll/commands/build-no-watch.rb lib/jekyll/commands/build.rb
