@@ -1,7 +1,7 @@
 image: alpine/edge
 packages:
   - nodejs
-  - musl-dev
+  - ruby-dev
 sources:
   - https://git.sr.ht/~stfn/newbarn
   - https://github.com/jekyll/jekyll
