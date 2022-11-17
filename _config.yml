@@ -1,0 +1,19 @@
+plugins:
+  - jekyll-feed
+  - jekyll-minifier
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

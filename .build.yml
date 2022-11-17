@@ -1,0 +1,24 @@
+image: alpine/edge
+packages:
+  - ruby-full
+  - ruby-dev
+  - nodejs
+sources:
+  - https://git.sr.ht/~stfn/newbarn
+secrets:
+  - d171a62a-7f1f-4a62-bf7c-04a20d86012f
+tasks:
+  - setup: |
+      sudo gem install --no-document bundler
+      sudo gem install --no-document neocities
+  - build: |
+      cd newbarn
+      bundle config jobs 4
+      bundle install
+      JEKYLL_ENV=production bundle exec jekyll build
+  - deploy: |
+      cd newbarn
+      set +x
+      export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
+      set -x
+      neocities push --prune _site

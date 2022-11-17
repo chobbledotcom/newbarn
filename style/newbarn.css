@@ -1,0 +1,230 @@
+﻿body
+{
+	font-size: 14px;
+	background-image: url("../img/squares.png");
+	background-attachment: fixed;
+}
+
+.navbar .nav > li > a
+{
+	font-size: 14px !important;
+}
+
+header .list
+{
+	width: 100%;
+}
+
+.dropdown-menu > li > a.bold-top-link
+{
+	font-weight: bold;
+}
+
+.hero h1 span, .hero h2 span, .hero h3 span
+{
+	background: #ffffff;
+}
+
+#main-container
+{
+	background: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	box-shadow: 0 0 5px #666;
+}
+
+#header-logos img
+{
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+}
+
+.alert-success h2, .alert-success p
+{
+	color: #333333;
+}
+
+#google-maps
+{
+	width: 100%;
+}
+
+.navbar
+{
+	margin-bottom: 0;
+}
+
+.fb-comments
+{
+	border-top: 1px solid #CCCCCC;
+	margin-top: 10px;
+	padding-top: 20px;
+	width: 100%;
+}
+
+.thumbnail
+{
+	position: relative;
+}
+
+	.thumbnail .caption
+	{
+		padding: 6px;
+		color: white;
+		position: absolute;
+		left: 4px;
+		background: url(../img/carousel-indicators-background.png);
+		right: 4px;
+		bottom: 4px;
+		text-align: center;
+		font-weight: bold;
+	}
+
+#NavBar
+{
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.row-less-padding
+{
+	margin-left: -5px;
+	margin-right: -5px;
+}
+
+	.row-less-padding > div
+	{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+
+footer
+{
+	margin-top: 0;
+}
+
+	footer h3
+	{
+		border-bottom: 1px solid #313131;
+		color: #CCCCCC;
+		font-size: 15px;
+		margin-bottom: 4px;
+		padding-bottom: 6px;
+	}
+
+.fb-like-box
+{
+	width: 100%;
+	overflow: hidden;
+}
+
+.content ul li
+{
+	background-position: 2px 10px;
+}
+
+	.content ul li.child-link
+	{
+		margin-left: 10px;
+	}
+
+header
+{
+	padding-bottom: 10px;
+}
+
+#logo, #logo img
+{
+	width: 100%;
+	max-width: 100%;
+	display: block;
+}
+
+.widget li a.active
+{
+	color: #333333;
+	text-decoration: underline;
+}
+
+.margin-top
+{
+	margin-top: 15px;
+}
+
+.events-list .events-list-item
+{
+	background-image: url("../img/events-background.png");
+	background-position: left 10px;
+	background-repeat: no-repeat;
+	list-style-type: none;
+	margin: 0;
+	min-height: 42px;
+	padding: 10px 0 10px 55px;
+	-ms-background-size: auto;
+	background-size: auto;
+}
+
+	.events-list .events-list-item a
+	{
+		font-weight: bold;
+	}
+
+header
+{
+	background: none no-repeat scroll 0 0 #FFFFFF;
+}
+
+#CarouselIndicatorsContainer
+{
+	background-image: url('../img/carousel-indicators-background.png');
+	height: 50px;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	z-index: 10;
+}
+
+	#CarouselIndicatorsContainer .carousel-indicators
+	{
+		bottom: 0;
+	}
+
+@media (max-width: 768px)
+{
+	span.hidden-xs-text
+	{
+		display: none;
+	}
+
+	.navbar
+	{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		z-index: 300;
+	}
+
+	header
+	{
+		padding-top: 70px;
+	}
+
+	#NavBar
+	{
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	#HeaderRight
+	{
+		text-align: center;
+	}
+
+	header .list
+	{
+		box-shadow: none;
+	}
+}
