@@ -1,7 +1,8 @@
 source "https://rubygems.org"
-gem "jekyll", path: "~/jekyll"
+
+gem "jekyll"
+
 group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-minifier"
 end
-
