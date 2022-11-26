@@ -1,19 +1,22 @@
+url: "https://newbarnltd.co.uk"
+
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-minifier
 
 collections:
   pages:
     output: true
     permalink: /:name/
+
 exclude:
+  - build-jekyll
+  - deploy-neocities
+  - LICENSE
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
   - Gemfile
   - Gemfile.lock
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor

@@ -1,29 +1,19 @@
 image: alpine/edge
 packages:
-  - nodejs
   - ruby-dev
+  - nodejs
+environment:
+  repo: newbarn 
 sources:
   - https://git.sr.ht/~stfn/newbarn
-  - https://github.com/jekyll/jekyll
 secrets:
-  - d171a62a-7f1f-4a62-bf7c-04a20d86012f
+  - d1a8c6e8-f481-4e50-9ec8-f780651ea483 # neocities
 tasks:
   - setup: |
-      sudo gem install --no-document bundler
-      sudo gem install --no-document neocities
-      cd jekyll
-      cat jekyll.gemspec | grep -E "\"(jekyll-watch|em-websocket)\"" -v > jekyll-no-watch.gemspec
-      mv jekyll-no-watch.gemspec jekyll.gemspec
-      cat lib/jekyll/commands/build.rb | grep -F "\"jekyll-watch\"" -v > lib/jekyll/commands/build-no-watch.rb
-      mv lib/jekyll/commands/build-no-watch.rb lib/jekyll/commands/build.rb
+      sudo gem install --no-document bundler neocities
   - build: |
-      cd newbarn
-      bundle config jobs 4
-      bundle install
-      JEKYLL_ENV=production bundle exec jekyll build
+      cd $repo
+      sh ./build-jekyll
   - deploy: |
-      cd newbarn
-      set +x
-      export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
-      set -x
-      neocities push --prune _site
+      cd $repo
+      sh ./deploy-neocities $repo _site
