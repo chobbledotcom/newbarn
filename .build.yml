@@ -13,7 +13,7 @@ tasks:
       sudo gem install --no-document bundler neocities
   - build: |
       cd $repo
-      sh ./build-jekyll
+      sh ./jekyll-build
   - deploy: |
       cd $repo
-      sh ./deploy-neocities $repo _site
+      sh ./neocities-deploy $repo _site
