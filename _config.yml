@@ -11,6 +11,7 @@ collections:
 
 exclude:
   - build-jekyll
+  - build.sh
   - deploy-neocities
   - LICENSE
   - .sass-cache/
