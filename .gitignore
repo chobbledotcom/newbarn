@@ -2,6 +2,7 @@ _site
 .bundle
 .direnv
 .DS_Store
+.nix-gems
 .sass-cache
 .jekyll-cache
 .jekyll-metadata

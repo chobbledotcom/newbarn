@@ -1,5 +1,0 @@
-current directory: /home/user/git/newbarn/.nix-gems/gems/neocities-0.0.18/ext
-/nix/store/vzkby118zjymnzknnanbd6jq621qp97a-ruby-3.1.4/bin/ruby mkrf_conf.rb
-
-current directory: /home/user/git/newbarn/.nix-gems/gems/neocities-0.0.18/ext
-/nix/store/vzkby118zjymnzknnanbd6jq621qp97a-ruby-3.1.4/bin/ruby -rrubygems /home/user/git/newbarn/.nix-gems/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/home/user/git/newbarn/.nix-gems/extensions/x86_64-linux/3.1.0/neocities-0.0.18 RUBYLIBDIR\=/home/user/git/newbarn/.nix-gems/extensions/x86_64-linux/3.1.0/neocities-0.0.18
