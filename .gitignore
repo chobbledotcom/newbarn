@@ -1,5 +1,6 @@
 _site
 .bundle
+.direnv
 .DS_Store
 .sass-cache
 .jekyll-cache

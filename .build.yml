@@ -2,18 +2,22 @@ image: alpine/edge
 packages:
   - ruby-dev
   - nodejs
+  - npm
 environment:
   repo: newbarn 
 sources:
   - https://git.sr.ht/~stfn/newbarn
+  - https://git.sr.ht/~stfn/build-scripts
 secrets:
   - d1a8c6e8-f481-4e50-9ec8-f780651ea483 # neocities
 tasks:
-  - setup: |
-      sudo gem install --no-document bundler neocities
   - build: |
       cd $repo
-      sh ./jekyll-build
+      sudo sh ../build-scripts/jekyll-build
+  - minify: |
+      cd $repo
+      sudo sh ../build-scripts/minify-site
   - deploy: |
       cd $repo
-      sh ./neocities-deploy $repo _site
+      sudo sh ../build-scripts/neocities-deploy $repo _site
+

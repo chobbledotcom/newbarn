@@ -198,18 +198,25 @@ header
 		display: none;
 	}
 
-	.navbar
-	{
-		position: fixed;
-		top: 0;
-		left: 0;
-		width: 100%;
-		z-index: 300;
-	}
+    .navbar .nav {
+        text-align: center;
+    }
+
+    .navbar .nav > li
+    {
+        display: inline-block;
+    }
+
+    .navbar .nav > li > a
+    {
+        padding: 5px 10px;
+        display: inline-block;
+    }
+
 
 	header
 	{
-		padding-top: 70px;
+		padding-top: 20px;
 	}
 
 	#NavBar
