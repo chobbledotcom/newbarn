@@ -191,6 +191,12 @@ header
 		bottom: 0;
 	}
 
+img.staff {
+  float: left;
+  width: 100px;
+  margin: 10px 10px 10px 0;
+}
+
 @media (max-width: 768px)
 {
 	span.hidden-xs-text
