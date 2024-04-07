@@ -197,6 +197,10 @@ img.staff {
   margin: 10px 10px 10px 0;
 }
 
+hr {
+  clear: both
+}
+
 @media (max-width: 768px)
 {
 	span.hidden-xs-text
