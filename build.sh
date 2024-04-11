@@ -5,6 +5,8 @@ bundle install
 export JEKYLL_ENV=production
 bundle exec jekyll build
 
+npx --yes @divriots/jampack ./_site
+
 html-minifier --input-dir _site --output-dir _site --file-ext html --collapse-whitespace --minify-css --remove-comments --remove-attribute-quotes --remove-redundant-attributes
 
 set +x

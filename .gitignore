@@ -2,8 +2,9 @@ _site
 .bundle
 .direnv
 .DS_Store
-.nix-gems
-.sass-cache
+.jampack
 .jekyll-cache
 .jekyll-metadata
+.nix-gems
+.sass-cache
 vendor

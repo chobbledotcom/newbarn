@@ -5,7 +5,7 @@ title: Newbarn Ltd Supported Housing
 top_links_name: Home
 top_links_order: 0
 meta_description: Newbarn Ltd Supported Housing
-header_text: Welcome to Newbarn Ltd - Enabling change for 30 years
+header_text: Newbarn Ltd - Enabling change for 30 years
 ---
 
 Newbarn is an inclusive, Tenant needs-led, high-quality accommodation and support service that promotes social inclusion and enables vulnerable adults to achieve their full potential.

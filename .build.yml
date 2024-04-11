@@ -17,6 +17,8 @@ tasks:
   - minify: |
       cd $repo
       sudo sh ../build-scripts/minify-site
+  - imageify: |
+      npx --yes @divriots/jampack ./_site
   - deploy: |
       cd $repo
       sudo sh ../build-scripts/neocities-deploy $repo _site
