@@ -22,3 +22,6 @@ exclude:
   - node_modules/
   - shell.nix
   - vendor
+
+sass:
+  style: compressed

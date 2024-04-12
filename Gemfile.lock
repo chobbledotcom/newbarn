@@ -82,7 +82,9 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-minifier
+  jekyll-sass-converter
   jekyll-sitemap
+  sassc
 
 BUNDLED WITH
-   2.3.26
+   2.4.22
