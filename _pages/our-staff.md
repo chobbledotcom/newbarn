@@ -76,3 +76,22 @@ I am a keen learner and have achieved the following qualifications which support
 -   Assessed Year in Social Work
 -   Level 5 in Leadership and Management
 -   Practice Educator
+
+---
+
+## **Dave Anderson**
+
+_Senior Maintenance Office_
+
+![Photo of Dave Anderson](/img/dave-anderson.jpg)
+
+I have worked with Newbarn for eight years. I have always worked in the construction industry. My chosen trade was initially as a plasterer although I progressed and worked for a few large construction companies on a management level previous to this role.
+
+I've also previously owned my own building business. My role in Newbarn involves coordinating and prioritising work and repairs on our housing stock and booking and liaising with contractors and looking after the welfare and development of my maintenance staff.
+
+I love my job, especially the variety it brings. I have a sense of pride over my work and the work of my team.
+
+**Relevant Qualifications:**
+
+- 1987 City and Guilds in general construction
+- 2006 CITB Health and Safety Management
