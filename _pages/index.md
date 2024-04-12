@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: Newbarn Ltd Supported Housing
+title: Newbarn Ltd - Supported Housing
 top_links_name: Home
 top_links_order: 0
 meta_description: Newbarn Ltd Supported Housing
