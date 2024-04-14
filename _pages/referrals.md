@@ -6,16 +6,17 @@ top_links_order: 3
 header_text: Referrals
 ---
 
-Referrals can be made using the Rochdale Mental Health Allocation Panel's referral and 'Consent to Disclosure' forms. Both forms can be downloaded, opened in Microsoft Word, completed electronically and forwarded as an attachment to [karen.kilburn@rochdale.gov.uk], or [info@newbarnltd.com]. Alternatively this can be printed off and posted to:
+The support services that Newbarn Ltd provide are commissioned by the Rochdale Adult Care Commissioning Team. We provide Supported Living services to people living in our 24 hour supported tenancies and Homecare and Outreach support to people living both in tenancies that we offer and also in their own homes.
 
-> **Housing allocation panel**  
-> C/o Community Restart Team  
-> Flat 4  
-> The Strand  
-> Kirkholt, Rochdale  
-> OL11 2JG
+Referrals into our service come via [Rochdale Adult Care] or local Community Mental Health Teams.
 
-If forwarding as an attachment, the printed names of referrer and client on the "Consent To Disclosure" form will be accepted as the client's consenting to the disclosure of relevant information and the referrer's giving of advice with regard to housing and support.
+With both routes of referral, there is a Care Act assessed and bespoke, person-centred support plan.
 
-[karen.kilburn@rochdale.gov.uk]: mailto:karen.kilburn@rochdale.gov.uk
-[info@newbarnltd.com]: mailto:info@newbarnltd.com
+For more information, or if you feel you would benefit from our services, please contact Rochdale Adult Care Commissioning Team on [01706 922841] or via email to [adultcarecommissioningteam@rochdale.gov.uk].
+
+Please check out this link from Rochdale Borough Council for more information - [Services provided through our local adult care market]
+
+[01706 922841]: tel:01706922841
+[adultcarecommissioningteam@rochdale.gov.uk]: mailto:adultcarecommissioningteam@rochdale.gov.uk
+[Rochdale Adult Care]: https://www.rochdale.gov.uk/adult-social-care
+[Services provided through our local adult care market]: https://www.rochdale.gov.uk/commissioning-health-social-care-services/services-provided-local-adult-care-market
