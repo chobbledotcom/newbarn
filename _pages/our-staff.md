@@ -41,8 +41,8 @@ The main purpose of all the roles I have undertaken has been to deliver high-qua
 
 **Relevant Qualifications:**
 
--   2021: Level 5 Diploma - Leadership for Health & Social Care & Children & Young Peoples Services – Adults Residential Management (England)
--   2002 BA (Hons) Professional Studies: Learning Disabilities, 2-1
+- 2021: Level 5 Diploma - Leadership for Health & Social Care & Children & Young Peoples Services – Adults Residential Management (England)
+- 2002 BA (Hons) Professional Studies: Learning Disabilities, 2-1
 
 ---
 
@@ -72,22 +72,22 @@ I value the work we do here at Newbarn, our holistic and person-centred approach
 
 I am a keen learner and have achieved the following qualifications which support my current role:
 
--   BA (Hons) Social Work
--   Assessed Year in Social Work
--   Level 5 in Leadership and Management
--   Practice Educator
+- BA (Hons) Social Work
+- Assessed Year in Social Work
+- Level 5 in Leadership and Management
+- Practice Educator
 
 ---
 
 ## **Dave Anderson**
 
-_Senior Maintenance Office_
+_Senior Maintenance Officer_
 
 ![Photo of Dave Anderson](/img/dave-anderson.jpg)
 
 I have worked with Newbarn for eight years. I have always worked in the construction industry. My chosen trade was initially as a plasterer although I progressed and worked for a few large construction companies on a management level previous to this role.
 
-I've also previously owned my own building business. My role in Newbarn involves coordinating and prioritising work and repairs on our housing stock and booking and liaising with contractors and looking after the welfare and development of my maintenance staff.
+I've also previously owned my own building business. My role in Newbarn involves coordinating and prioritising work and repairs on our housing stock, booking and liaising with contractors, and looking after the welfare and development of my maintenance staff.
 
 I love my job, especially the variety it brings. I have a sense of pride over my work and the work of my team.
 
