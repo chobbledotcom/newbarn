@@ -13,7 +13,8 @@ If you:
 - Have a mental health condition, mild to moderate Learning Disability (including people with ASD) or those with a dual diagnosis (including substance misuse)
 - Are able to live independently but require some housing support with cooking, budgeting, development of social skills, or the supervision and monitoring of your health and well being
 - Are aged over 18
-- Have a CPN, social worker, probation office, care co-ordinator or similar, and you're In receipt of DLA
+- Have a CPN, social worker, probation office, care co-ordinator or similar
+- Receive a Disability Living Allowance (DLA)
 
 You are eligible for Newbarn Ltd
 
