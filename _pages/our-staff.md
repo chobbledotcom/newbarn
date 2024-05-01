@@ -79,7 +79,7 @@ I am a keen learner and have achieved the following qualifications which support
 
 ---
 
-## **Dave Anderson**
+### **Dave Anderson**
 
 _Senior Maintenance Officer_
 
@@ -95,3 +95,15 @@ I love my job, especially the variety it brings. I have a sense of pride over my
 
 - 1987 City and Guilds in general construction
 - 2006 CITB Health and Safety Management
+
+---
+
+### **Dan Petricca**
+
+_Team Lead_
+
+![Photo of Dan Patricca](/img/dan-petricca.jpg)
+
+I started working for Newbarn in January 2021, initially as a Garden Project Coordinator. In this role I enjoyed working with the tenants to create a wildlife-friendly garden and growing our own fruit and veg. We achieved a level 4 award at North West In Bloom.
+
+I also ran creative sessions at our Wellbeing Hub at The Landings. From there, I moved into support work, and enjoyed the challenge of providing individualised, person-centred support to our tenants and service users. I'm now in a Team Lead role, working closely with our team of dedicated, caring support workers. I'm currently working towards my Health and Social Care qualification.
