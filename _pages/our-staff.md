@@ -107,3 +107,29 @@ _Team Lead_
 I started working for Newbarn in January 2021, initially as a Garden Project Coordinator. In this role I enjoyed working with the tenants to create a wildlife-friendly garden and growing our own fruit and veg. We achieved a level 4 award at North West In Bloom.
 
 I also ran creative sessions at our Wellbeing Hub at The Landings. From there, I moved into support work, and enjoyed the challenge of providing individualised, person-centred support to our tenants and service users. I'm now in a Team Lead role, working closely with our team of dedicated, caring support workers. I'm currently working towards my Health and Social Care qualification.
+
+---
+
+### **Nicole Adair**
+
+_Team Lead_
+
+![Photo of Nicole Adair](/img/nicole-adair.jpg)
+
+I joined Newbarn Ltd in 2021 where I began my journey as a Team Administrator before undergoing health and social care training to become a Support Worker, then Senior Support Worker.
+
+I have since secured a post of Team Lead (my current role) and I am working towards achieving an NVQ in Adult Care Leadership. My role includes overseeing the support of individuals in our supported living projects, working closely with the Project Lead, Registered Manager and my fellow Team Lead to deliver high quality support to our tenants and service users.
+
+We have an amazing team which I am very fortunate to be a part of.
+
+---
+
+### **Jack Fender**
+
+_Acting Registered Manager_
+
+![Photo of Jack Fender](/img/jack-fender.jpg)
+
+I Joined Newbarn in November 2023 and have been in the Health and Social Care sector for around 15 years. My background is predominantly in Autism and learning disabilities but I have worked with people with a range of different needs and challenges and I love what I do. I have worked in many different settings from people's own homes to residential, supported living and outreach.
+
+I am passionate about person-centred support and inclusivity for the people we support in the wider community and I am looking forward to doing this going forward with Newbarn and their tenants.
