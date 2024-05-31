@@ -3,6 +3,7 @@ url: "https://newbarnltd.co.uk"
 plugins:
   - jekyll-sitemap
   - jekyll-minifier
+  - jekyll-toc
 
 collections:
   pages:

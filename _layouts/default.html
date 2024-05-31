@@ -84,6 +84,11 @@
       </div>
       <div class="col-md-4">
         <div class="sidebar content">
+          {% if page.toc %}
+            <div class="widget">
+              {% toc %}
+            </div>
+          {% endif %}
           <div class="widget">
             <script type="text/javascript"
               src="https://www.cqc.org.uk/sites/all/modules/custom/cqc_widget/widget.js?data-id=1-533126912&amp;data-host=www.cqc.org.uk"></script>
