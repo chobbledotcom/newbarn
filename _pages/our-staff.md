@@ -133,3 +133,11 @@ _Acting Registered Manager_
 I Joined Newbarn in November 2023 and have been in the Health and Social Care sector for around 15 years. My background is predominantly in Autism and learning disabilities but I have worked with people with a range of different needs and challenges and I love what I do. I have worked in many different settings from people's own homes to residential, supported living and outreach.
 
 I am passionate about person-centred support and inclusivity for the people we support in the wider community and I am looking forward to doing this going forward with Newbarn and their tenants.
+
+---
+
+### **Sara Ahmed**
+
+_Team Administrator_
+
+My journey with Newbarn started in November 2023, as a team administrator. My role consists of administrative duties and makes me feel a vital part of this organisation. Over the months, I have developed many skills and I am looking forward to learning many more in the future. I love my role at Newbarn, because my job allows me to help people out a little every day.
