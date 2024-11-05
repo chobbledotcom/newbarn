@@ -14,9 +14,4 @@ secrets:
 tasks:
   - build: |
       cd $repo
-      bundle exec jekyll build
-      html-minifier --input-dir _site --output-dir _site --collapse-whitespace --file-ext html
-      set +x
-      export NEOCITIES_API_KEY=$(cat /home/build/.neocities/$repo)
-      set -x
-      neocities push --prune _site
+      sh build.sh

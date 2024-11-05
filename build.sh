@@ -2,7 +2,7 @@
 
 export JEKYLL_ENV=production
 set +x
-export NEOCITIES_API_KEY=$(cat /home/user/.neocities/newbarn)
+export NEOCITIES_API_KEY=$(cat ~/.neocities/newbarn)
 set -x
 rm -rf _site
 bundle exec jekyll build
