@@ -1,4 +1,5 @@
 _site
+note_modules
 .bundle
 .direnv
 .DS_Store
