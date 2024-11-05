@@ -1,6 +1,6 @@
 image: nixos/latest
 packages:
-  - nixos.bundler
+  - nixos.ruby_3_3
   - nixos.html-minifier
   - nixos.neocities-cli
   - nixos.sass
