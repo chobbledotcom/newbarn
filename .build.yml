@@ -2,6 +2,7 @@ image: nixos/latest
 packages:
   - nixos.ruby_3_3
   - nixos.html-minifier
+  - nixos.jekyll
   - nixos.neocities-cli
   - nixos.sass
 environment:
