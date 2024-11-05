@@ -6,22 +6,17 @@ packages:
   - build-base
   - libffi-dev
 environment:
-  repo: newbarn 
+  repo: newbarn
 sources:
   - https://git.sr.ht/~stfn/newbarn
-  - https://git.sr.ht/~stfn/build-scripts
 secrets:
   - d1a8c6e8-f481-4e50-9ec8-f780651ea483 # neocities
 tasks:
   - build: |
       cd $repo
-      sudo sh ../build-scripts/jekyll-build
-  - minify: |
-      cd $repo
-      sudo sh ../build-scripts/minify-site
-  - imageify: |
-      npx --yes @divriots/jampack ./_site
-  - deploy: |
-      cd $repo
-      sudo sh ../build-scripts/neocities-deploy $repo _site
-
+      bundle exec jekyll build
+      html-minifier --input-dir _site --output-dir _site --collapse-whitespace --file-ext html
+      set +x
+      export NEOCITIES_API_KEY=$(cat /home/build/.neocities/$repo)
+      set -x
+      neocities push --prune _site
