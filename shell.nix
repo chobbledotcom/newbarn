@@ -1,7 +1,7 @@
 with (import <nixpkgs> {});
 mkShell {
   buildInputs = [
-    bundler
+    ruby_3_3
     html-minifier
     neocities-cli
     sass
