@@ -1,8 +1,8 @@
 image: nixos/latest
 packages:
+  - nixos.bundler
   - nixos.html-minifier
   - nixos.neocities-cli
-  - nixos.bundler
   - nixos.sass
 environment:
   repo: newbarn
