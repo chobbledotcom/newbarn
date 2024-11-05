@@ -1,10 +1,10 @@
-image: alpine/edge
+image: nixos/latest
 packages:
-  - ruby-dev
-  - nodejs
-  - npm
-  - build-base
-  - libffi-dev
+  - nixos.html-minifier
+  - nixos.lightningcss
+  - nixos.neocities-cli
+  - nixos.bundler
+  - nixos.sass
 environment:
   repo: newbarn
 sources:
