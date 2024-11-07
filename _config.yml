@@ -17,11 +17,9 @@ exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
+  - bin/
   - Gemfile
   - Gemfile.lock
   - node_modules/
   - shell.nix
   - vendor
-
-sass:
-  style: compressed

@@ -9,3 +9,6 @@ note_modules
 .nix-gems
 .sass-cache
 vendor
+Gemfile.lock
+.env
+.aider*
