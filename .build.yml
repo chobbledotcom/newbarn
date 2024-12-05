@@ -1,9 +1,0 @@
-image: nixos/latest
-sources:
-  - https://git.sr.ht/~stfn/newbarn
-secrets:
-  - d1a8c6e8-f481-4e50-9ec8-f780651ea483 # neocities
-tasks:
-  - build: |
-      cd newbarn
-      sh bin/build

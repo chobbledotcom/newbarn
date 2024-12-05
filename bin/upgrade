@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-
-nix-shell -p ruby_3_3 --pure --command "
-  export JEKYLL_ENV=production
-  echo 'Installing bundles'
-  bundle config set path 'vendor/cache'
-  bundle install --gemfile=Gemfile
-  bundle update
-"
