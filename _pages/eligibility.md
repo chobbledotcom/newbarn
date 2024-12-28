@@ -8,14 +8,12 @@ header_text: Eligibility
 
 If you:
 
-- Live in Rochdale, Middleton or Heywood
-- Have and individual budget or Individual Service Fund (ISF). Please click [here] for more information
-- Have a mental health condition, mild to moderate Learning Disability (including people with ASD) or those with a dual diagnosis (including substance misuse)
-- Are able to live independently but require some housing support with cooking, budgeting, development of social skills, or the supervision and monitoring of your health and well being
-- Are aged over 18
-- Have a CPN, social worker, probation office, care co-ordinator or similar
-- Receive a Disability Living Allowance (DLA)
+ - Live in Greater Manchester
+ - Have undergone a needs assessment under the Care Act (2014) and met the eligibility criteria for social care support.
+ - Have a mental health condition, mild to moderate Learning Disability, are neurodivergent, or have a dual diagnosis of a co-occurring mental health condition and alcohol or substance use.
+ - Have a personal budget allocated by Adult Care Commissioning teams for social care support delivery.
+ - Be a self-funder who has an assessed need and requires social care support.
+ - Can live independently but require some housing support with cooking, budgeting, development of social skills, medication support, or the supervision and monitoring of your health and well-being needs.
+ - Are aged 18 or over
 
-You are eligible for Newbarn Ltd
-
-[here]: http://www.in-control.org.uk/publications/reports-and-discussion-papers/individual-service-funds-for-homecare.aspx
+You are eligible for support from Newbarn Ltd.
