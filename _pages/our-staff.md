@@ -117,3 +117,15 @@ We have an amazing team which I am very fortunate to be a part of.
 _Team Administrator_
 
 My journey with Newbarn started in November 2023, as a team administrator. My role consists of administrative duties and makes me feel a vital part of this organisation. Over the months, I have developed many skills and I am looking forward to learning many more in the future. I love my role at Newbarn, because my job allows me to help people out a little every day.
+
+---
+
+### **Michelle Reckless**
+
+_Propery Management Lead_
+
+![Photo of Michelle Reckless](/img/michelle-reckless.jpg)
+
+I'm the property management lead for Newbarn Ltd, and I joined the team in 2022. I support our tenants with day-to-day maintenance and tenancy queries. I liaise with our support staff, landlords and agents and I manage our hard-working maintenance team. Overall my number one priority is making sure our tenants wellbeing and safety within their home environment is of the best standard and most comfortable it can be.
+
+I love my role and the job satisfaction that it provides, and I enjoy working with our all of our lovely staff team, everyone is so hard working and passionate about our service. My background has been estate agency since 2012, and I am currently studying for a qualification within Letting & Residential Property Management.
