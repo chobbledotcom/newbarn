@@ -18,18 +18,6 @@ I have worked in this role with Newbarn for 18+ years, since September 2006. The
 
 ---
 
-### **Laura Natale**
-
-_Director_
-
-![Photo of Laura McKee](/img/laura-mckee.jpg)
-
-I am a qualified and Social Work England registered Social Worker and have worked with Newbarn for 11 years, initially in the role of Project Lead, then as our CQC Registered Manager, and now as a director. As a student Social Worker, I volunteered with Newbarn in the summer of 2011 and loved the values and ethos of the organisation.
-
-I am qualified at level 3 Counselling Skills and achieved an MSc in Leadership in Health and Social Care in 2016. I have completed completed my ASYE (Assessed and Supported Year in Employment for Social Workers)
-
----
-
 ### **Clare Clark**
 
 _Deputy Service Lead_
@@ -121,18 +109,6 @@ I joined Newbarn Ltd in 2021 where I began my journey as a Team Administrator be
 I have since secured a post of Team Lead (my current role) and I am working towards achieving an NVQ in Adult Care Leadership. My role includes overseeing the support of individuals in our supported living projects, working closely with the Project Lead, Registered Manager and my fellow Team Lead to deliver high quality support to our tenants and service users.
 
 We have an amazing team which I am very fortunate to be a part of.
-
----
-
-### **Jack Fender**
-
-_Acting Registered Manager_
-
-![Photo of Jack Fender](/img/jack-fender.jpg)
-
-I Joined Newbarn in November 2023 and have been in the Health and Social Care sector for around 15 years. My background is predominantly in Autism and learning disabilities but I have worked with people with a range of different needs and challenges and I love what I do. I have worked in many different settings from people's own homes to residential, supported living and outreach.
-
-I am passionate about person-centred support and inclusivity for the people we support in the wider community and I am looking forward to doing this going forward with Newbarn and their tenants.
 
 ---
 
