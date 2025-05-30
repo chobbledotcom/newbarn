@@ -25,7 +25,7 @@ _Deputy Service Lead_
 
 ![Photo of Clare Clark](/img/clare-clark.jpg)
 
-I joined Newbarn Ltd in June 2023. I have over 20 years’ experience in Social Care Management. I have worked across a variety of Social Care Services including Supported Living, Residential Services, Day Services and Outreach Support for Adults and Children with a range of disabilities and complex mental health conditions.
+I joined Newbarn Ltd in June 2023. I have over 20 years' experience in Social Care Management. I have worked across a variety of Social Care Services including Supported Living, Residential Services, Day Services and Outreach Support for Adults and Children with a range of disabilities and complex mental health conditions.
 
 The main purpose of all the roles I have undertaken has been to deliver high-quality person-centred services for people with disabilities.
 
@@ -33,18 +33,6 @@ The main purpose of all the roles I have undertaken has been to deliver high-qua
 
 - 2021: Level 5 Diploma - Leadership for Health & Social Care & Children & Young Peoples Services – Adults Residential Management (England)
 - 2002 BA (Hons) Professional Studies: Learning Disabilities, 2-1
-
----
-
-### **Esha Asad**
-
-_Service Administrator_
-
-![Photo of Esha Asad](/img/esha-asad.jpg)
-
-I feel incredibly fortunate to be a part of this organization due to the amazing team dynamics. Everyone is highly cooperative and committed to making a substantial difference in the lives of those with special needs and growing as a team.
-
-I began my journey at Newbarn Ltd. as a dedicated team administrator. Currently, I'm pursuing my AAT certification; besides this, I have done Level 4 in Forensics Accounting, which has deepened my understanding of financial processes and management. My personal growth and development have thrived as a result of my embrace of daily challenges and the opportunity to take on new financial tasks with enthusiasm. My passion lies in making a positive impact on people's lives, both within our organization and beyond. As a service finance administrator, I'm committed to continuous growth and contributing to our collective success. This aspect of my role brings excitement to each day and adds immeasurably to my learning and development journey. I am looking forward to making a more productive and positive impact on the Newbarn family!
 
 ---
 
@@ -56,7 +44,7 @@ _Project Lead_
 
 I started with Newbarn Limited as a Social Work student in September 2014 and have worked within the Newbarn service ever since. I have been in various roles; Student, Support Worker, Senior Support Worker and for the last 6 years as Project Lead. I work closely alongside our Registered Manager and other Senior Lead colleagues.
 
-My working day and week vary from completing organisational tasks, overseeing tenants’ support needs and often providing 1:1 support and also line managing our support and team lead colleagues. I am a qualified Practice Educator which means I supervise Social Worker / Nursing Students on their placements with us, I enjoy being a small part of their education and futures!
+My working day and week vary from completing organisational tasks, overseeing tenants' support needs and often providing 1:1 support and also line managing our support and team lead colleagues. I am a qualified Practice Educator which means I supervise Social Worker / Nursing Students on their placements with us, I enjoy being a small part of their education and futures!
 
 I value the work we do here at Newbarn, our holistic and person-centred approaches help our tenants achieve their short and long-term goals. We have a great team and I look forward to seeing us grow/achieve more in the future.
 
@@ -66,6 +54,32 @@ I am a keen learner and have achieved the following qualifications which support
 - Assessed Year in Social Work
 - Level 5 in Leadership and Management
 - Practice Educator
+
+---
+
+### **Taibatu Bello**
+
+_Project Lead_
+
+![Photo of Taibatu Bello](/img/taibatu-bello.jpg)
+
+I have over two decades of experience in the health care field, bringing extensive knowledge and skills to Newbarn Ltd. I hold a BSc Honours degree in Health & Social Care and a Level 5 qualification in Leadership & Management for Children and Adults.
+
+Throughout my career, I have developed comprehensive expertise in project management and business analysis. I am fully trained as a Project Management Officer and Scrum Master, allowing me to contribute effectively to our organisation's operational efficiency and quality of care.
+
+I am passionate about applying my diverse skill set to enhance the support we provide to our tenants and service users, ensuring they receive the highest standard of care possible.
+
+---
+
+### **Michelle Reckless**
+
+_Property Management Lead_
+
+![Photo of Michelle Reckless](/img/michelle-reckless.jpg)
+
+I'm the property management lead for Newbarn Ltd, and I joined the team in 2022. I support our tenants with day-to-day maintenance and tenancy queries. I liaise with our support staff, landlords and agents and I manage our hard-working maintenance team. Overall my number one priority is making sure our tenants' wellbeing and safety within their home environment is of the best standard and most comfortable it can be.
+
+I love my role and the job satisfaction that it provides, and I enjoy working with all of our lovely staff team. Everyone is so hard-working and passionate about our service. My background has been estate agency since 2012, and I am currently studying for a qualification within Letting & Residential Property Management.
 
 ---
 
@@ -91,7 +105,7 @@ I love my job, especially the variety it brings. I have a sense of pride over my
 
 _Team Lead_
 
-![Photo of Dan Patricca](/img/dan-petricca.jpg)
+![Photo of Dan Petricca](/img/dan-petricca.jpg)
 
 I started working for Newbarn in January 2021, initially as a Garden Project Coordinator. In this role I enjoyed working with the tenants to create a wildlife-friendly garden and growing our own fruit and veg. We achieved a level 4 award at North West In Bloom.
 
@@ -113,6 +127,18 @@ We have an amazing team which I am very fortunate to be a part of.
 
 ---
 
+### **Esha Asad**
+
+_Service Administrator_
+
+![Photo of Esha Asad](/img/esha-asad.jpg)
+
+I feel incredibly fortunate to be a part of this organization due to the amazing team dynamics. Everyone is highly cooperative and committed to making a substantial difference in the lives of those with special needs and growing as a team.
+
+I began my journey at Newbarn Ltd. as a dedicated team administrator. Currently, I'm pursuing my AAT certification; besides this, I have done Level 4 in Forensics Accounting, which has deepened my understanding of financial processes and management. My personal growth and development have thrived as a result of my embrace of daily challenges and the opportunity to take on new financial tasks with enthusiasm. My passion lies in making a positive impact on people's lives, both within our organization and beyond. As a service finance administrator, I'm committed to continuous growth and contributing to our collective success. This aspect of my role brings excitement to each day and adds immeasurably to my learning and development journey. I am looking forward to making a more productive and positive impact on the Newbarn family!
+
+---
+
 ### **Sara Ahmed**
 
 _Team Administrator_
@@ -120,13 +146,3 @@ _Team Administrator_
 My journey with Newbarn started in November 2023, as a team administrator. My role consists of administrative duties and makes me feel a vital part of this organisation. Over the months, I have developed many skills and I am looking forward to learning many more in the future. I love my role at Newbarn, because my job allows me to help people out a little every day.
 
 ---
-
-### **Michelle Reckless**
-
-_Property Management Lead_
-
-![Photo of Michelle Reckless](/img/michelle-reckless.jpg)
-
-I'm the property management lead for Newbarn Ltd, and I joined the team in 2022. I support our tenants with day-to-day maintenance and tenancy queries. I liaise with our support staff, landlords and agents and I manage our hard-working maintenance team. Overall my number one priority is making sure our tenants' wellbeing and safety within their home environment is of the best standard and most comfortable it can be.
-
-I love my role and the job satisfaction that it provides, and I enjoy working with all of our lovely staff team. Everyone is so hard-working and passionate about our service. My background has been estate agency since 2012, and I am currently studying for a qualification within Letting & Residential Property Management.
