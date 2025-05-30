@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Referrals to Newbarn Ltd Supported Accommodation
+title: Referrals to Supported Housing in Rochdale | Newbarn Ltd
 top_links_name: Referrals
 top_links_order: 3
-header_text: Referrals
+meta_description: Learn how to access Newbarn's supported housing services in Rochdale through referrals from Rochdale Adult Care or Community Mental Health Teams in Greater Manchester.
+header_text: How to access our services
 ---
 
 The support services that Newbarn Ltd provide are commissioned by the Rochdale Adult Care Commissioning Team. We provide Supported Living services to people living in our 24 hour supported tenancies and Homecare and Outreach support to people living both in tenancies that we offer and also in their own homes.

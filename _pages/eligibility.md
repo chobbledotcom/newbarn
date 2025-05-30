@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Eligibility for Newbarn Ltd
+title: Eligibility for Supported Housing | Newbarn Ltd Rochdale
 top_links_name: Eligibility
 top_links_order: 1
-header_text: Eligibility
+meta_description: Eligibility criteria for Newbarn's supported housing in Greater Manchester, serving adults with mental health conditions, learning disabilities, and neurodivergent individuals.
+header_text: Who we support
 ---
 
 If you:

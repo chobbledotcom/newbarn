@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Stakeholder Feedback
+title: Professional Testimonials | Newbarn Ltd Supported Housing
 top_links_name: Stakeholder Feedback
 top_links_order: 5
-header_text: Stakeholder Feedback
+meta_description: Read testimonials from healthcare professionals and social workers about Newbarn's high-quality supported housing services in Rochdale, Greater Manchester.
+header_text: Stakeholder feedback
 ---
 
 > “Excellent. The needs of Service Users, in my experience, are always fulfilled to the best possible standard”

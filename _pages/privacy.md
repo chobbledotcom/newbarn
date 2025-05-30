@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /privacy
-title: Our Privacy Policy
-meta_description: Our Privacy Policy
+title: Privacy Policy | Newbarn Ltd Supported Housing
+meta_description: Newbarn Ltd's privacy policy outlines how we protect your personal information when accessing our supported housing and care services in Rochdale.
 header_text: Our Privacy Policy
 ---
 

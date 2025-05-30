@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Our Staff - Newbarn Ltd
+title: Our Experienced Care Team | Newbarn Ltd Rochdale
 top_links_name: Our Staff
 top_links_order: 4
-header_text: Our Staff
+meta_description: Meet Newbarn's dedicated team of qualified care professionals providing supported housing services in Rochdale. Our experienced staff deliver person-centred support for vulnerable adults.
+header_text: Meet our team
 class: staff
 toc: true
 ---
@@ -26,7 +27,7 @@ _Deputy Service Lead_
 
 I joined Newbarn Ltd in June 2023. I have over 20 years’ experience in Social Care Management. I have worked across a variety of Social Care Services including Supported Living, Residential Services, Day Services and Outreach Support for Adults and Children with a range of disabilities and complex mental health conditions.
 
-The main purpose of all the roles I have undertaken has been to deliver high-quality person centred services for people with disabilities.
+The main purpose of all the roles I have undertaken has been to deliver high-quality person-centred services for people with disabilities.
 
 **Relevant Qualifications:**
 
@@ -122,10 +123,10 @@ My journey with Newbarn started in November 2023, as a team administrator. My ro
 
 ### **Michelle Reckless**
 
-_Propery Management Lead_
+_Property Management Lead_
 
 ![Photo of Michelle Reckless](/img/michelle-reckless.jpg)
 
-I'm the property management lead for Newbarn Ltd, and I joined the team in 2022. I support our tenants with day-to-day maintenance and tenancy queries. I liaise with our support staff, landlords and agents and I manage our hard-working maintenance team. Overall my number one priority is making sure our tenants wellbeing and safety within their home environment is of the best standard and most comfortable it can be.
+I'm the property management lead for Newbarn Ltd, and I joined the team in 2022. I support our tenants with day-to-day maintenance and tenancy queries. I liaise with our support staff, landlords and agents and I manage our hard-working maintenance team. Overall my number one priority is making sure our tenants' wellbeing and safety within their home environment is of the best standard and most comfortable it can be.
 
-I love my role and the job satisfaction that it provides, and I enjoy working with our all of our lovely staff team, everyone is so hard working and passionate about our service. My background has been estate agency since 2012, and I am currently studying for a qualification within Letting & Residential Property Management.
+I love my role and the job satisfaction that it provides, and I enjoy working with all of our lovely staff team. Everyone is so hard-working and passionate about our service. My background has been estate agency since 2012, and I am currently studying for a qualification within Letting & Residential Property Management.
