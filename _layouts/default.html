@@ -154,8 +154,10 @@
       <hr />
       <div class="footer-links">
         &copy; Newbarn Ltd
+        {% if page.permalink == "/" %}
         <span>//</span>
         <a rel="nofollow" href="https://chobble.com">website by chobble</a>
+        {% endif %}
       </div>
     </div>
   </footer>
