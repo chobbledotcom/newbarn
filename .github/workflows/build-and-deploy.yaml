@@ -25,11 +25,9 @@ jobs:
 
       - name: Cache Nix store
         uses: actions/cache@v4
+        continue-on-error: true
         with:
-          path: |
-            /nix/store
-            /nix/var/nix/db
-            ~/.cache/nix
+          path: ~/.cache/nix
           key: nix-${{ runner.os }}-${{ hashFiles('flake.nix', 'flake.lock', 'Gemfile.lock', 'gemset.nix') }}
           restore-keys: |
             nix-${{ runner.os }}-
@@ -74,3 +72,15 @@ jobs:
           enable-purge-pull-zone: true
           pull-zone-id: 4582891
           replication-timeout: "15000"
+
+  notify-failure:
+    name: Notify on Failure
+    runs-on: ubuntu-latest
+    needs: [build, deploy]
+    if: failure()
+    steps:
+      - name: Send failure notification
+        uses: NiNiyas/ntfy-action@master
+        with:
+          url: 'https://ntfy.sh'
+          topic: ${{ secrets.NTFY_TOPIC }}
