@@ -17,3 +17,5 @@ If you:
  - Are aged 18 or over
 
 You are eligible for support from Newbarn Ltd.
+
+For tenants whose quality of life is improved in a group setting and who may benefit from 24-hour support in a homely residential setting, we also provide residential care at [Freehold Cottage](https://www.freeholdcottage.com).

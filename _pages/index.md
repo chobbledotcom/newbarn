@@ -20,6 +20,8 @@ We include and support families and carers by listening, reflecting and respecti
 
 Newbarn offers support, advice and accommodation, which includes help with budgeting, cooking, shopping, cleaning and other everyday tasks, as well as with keeping doctors' appointments, managing self-medication and ensuring good health and safety is provided.
 
+For tenants whose quality of life is improved in a group setting and who may benefit from 24-hour support in a homely residential setting, we also provide residential care at [Freehold Cottage](https://www.freeholdcottage.com).
+
 ---
 
 ## Find Out More
