@@ -19,23 +19,6 @@ I have worked in this role with Newbarn for 18+ years, since September 2006. The
 
 ---
 
-### **Clare Clark**
-
-_Deputy Service Lead_
-
-![Photo of Clare Clark](/img/clare-clark.jpg)
-
-I joined Newbarn Ltd in June 2023. I have over 20 years' experience in Social Care Management. I have worked across a variety of Social Care Services including Supported Living, Residential Services, Day Services and Outreach Support for Adults and Children with a range of disabilities and complex mental health conditions.
-
-The main purpose of all the roles I have undertaken has been to deliver high-quality person-centred services for people with disabilities.
-
-**Relevant Qualifications:**
-
-- 2021: Level 5 Diploma - Leadership for Health & Social Care & Children & Young Peoples Services – Adults Residential Management (England)
-- 2002 BA (Hons) Professional Studies: Learning Disabilities, 2-1
-
----
-
 ### **Terrie H**
 
 _Project Lead_
@@ -71,18 +54,6 @@ I am passionate about applying my diverse skill set to enhance the support we pr
 
 ---
 
-### **Michelle Reckless**
-
-_Property Management Lead_
-
-![Photo of Michelle Reckless](/img/michelle-reckless.jpg)
-
-I'm the property management lead for Newbarn Ltd, and I joined the team in 2022. I support our tenants with day-to-day maintenance and tenancy queries. I liaise with our support staff, landlords and agents and I manage our hard-working maintenance team. Overall my number one priority is making sure our tenants' wellbeing and safety within their home environment is of the best standard and most comfortable it can be.
-
-I love my role and the job satisfaction that it provides, and I enjoy working with all of our lovely staff team. Everyone is so hard-working and passionate about our service. My background has been estate agency since 2012, and I am currently studying for a qualification within Letting & Residential Property Management.
-
----
-
 ### **Dave Anderson**
 
 _Senior Maintenance Officer_
@@ -110,20 +81,6 @@ _Team Lead_
 I started working for Newbarn in January 2021, initially as a Garden Project Coordinator. In this role I enjoyed working with the tenants to create a wildlife-friendly garden and growing our own fruit and veg. We achieved a level 4 award at North West In Bloom.
 
 I also ran creative sessions at our Wellbeing Hub at The Landings. From there, I moved into support work, and enjoyed the challenge of providing individualised, person-centred support to our tenants and service users. I'm now in a Team Lead role, working closely with our team of dedicated, caring support workers. I'm currently working towards my Health and Social Care qualification.
-
----
-
-### **Nicole Adair**
-
-_Team Lead_
-
-![Photo of Nicole Adair](/img/nicole-adair.jpg)
-
-I joined Newbarn Ltd in 2021 where I began my journey as a Team Administrator before undergoing health and social care training to become a Support Worker, then Senior Support Worker.
-
-I have since secured a post of Team Lead (my current role) and I am working towards achieving an NVQ in Adult Care Leadership. My role includes overseeing the support of individuals in our supported living projects, working closely with the Project Lead, Registered Manager and my fellow Team Lead to deliver high quality support to our tenants and service users.
-
-We have an amazing team which I am very fortunate to be a part of.
 
 ---
 
