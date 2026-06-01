@@ -103,3 +103,23 @@ _Team Administrator_
 My journey with Newbarn started in November 2023, as a team administrator. My role consists of administrative duties and makes me feel a vital part of this organisation. Over the months, I have developed many skills and I am looking forward to learning many more in the future. I love my role at Newbarn, because my job allows me to help people out a little every day.
 
 ---
+
+### **Ifeoma Ikeh**
+
+_Housing Service Lead (Supported Housing)_
+
+![Photo of Ifeoma Ikeh](/img/ifeoma.jpg)
+
+I joined Newbarn as a Support Worker in September 2023 and progressed into the role of Housing Service Lead (Supported Housing) in March 2026. Since then, I have worked closely with the Service Lead and wider leadership team, overseeing the housing operations and managing the maintenance team to help ensure high-quality services and safe environments for our tenants and staff.
+
+I hold an MSc in International Development Management and am currently working towards my NVQ Level 3 qualification. I also hold an IOSH Managing Safely certification, which supports my commitment to maintaining safe and effective working practices.
+
+Stepping into the Housing Service Lead role has been an incredibly rewarding opportunity, providing valuable experiences and continuous professional growth. I am passionate about learning, developing my skills, and contributing positively to Newbarn's ongoing success. I look forward to continuing my journey within the organisation and embracing new opportunities for growth and development.
+
+**Relevant qualifications:**
+
+- MSc in International Development Management
+- NVQ Level 3 (in progress)
+- IOSH Managing Safely
+
+---
